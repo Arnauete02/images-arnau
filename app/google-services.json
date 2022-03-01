@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314554380404",
+    "project_id": "images-arnau",
+    "storage_bucket": "images-arnau.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314554380404:android:6ba66de067dc68b90a6121",
+        "android_client_info": {
+          "package_name": "com.example.images_arnau"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314554380404-4nvhvpg8i1m58kgge7i5ck6kusbp96nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6rLeakAG29w_21wC0cD4Opoc2BM0oMhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314554380404-4nvhvpg8i1m58kgge7i5ck6kusbp96nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
